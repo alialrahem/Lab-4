@@ -1,0 +1,12 @@
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\AliAlrahem\Desktop\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\AliAlrahem\Desktop\Lab Assignment 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
